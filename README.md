@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on Fiverr and Upwork
 - 🤔 I’m looking for help with TypeScript
 - 💬 Ask me about JavaScript and ReactJS
-- 📫 How to reach me: Instagram: @aadil.codes
+- 📫 How to reach me:[ LinkedIn: Aadil Ghani](https://www.linkedin.com/in/aadil-g-a25545b1) || [Website: aadilghani.netlify.app](https://aadilghani.netlify.app/)
 - ⚡ Fun fact: I love to read about the latest vulnerabilities released on the official CVE Website.
