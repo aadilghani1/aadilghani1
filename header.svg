@@ -5,7 +5,7 @@
   </section>
   <section class="surname"><span class="letter letter--0">G</span><span class="letter letter--1">H</span><span class="letter letter--2">A</span><span class="letter letter--3">N</span><span class="letter letter--4">I</span>
   </section>
-</main>
+
 			<style>
 				@import url("https://fonts.googleapis.com/css2?family=Londrina+Outline&Open+Sans:wght@700&display=swap");
 html {
@@ -118,6 +118,6 @@ body {
   }
 }
 			</style>
-			
+			</main>
 	</foreignObject>
 </svg>
