@@ -1,3 +1,5 @@
+![Name animation](https://github.com/aadilghani1/aadilghani1/blob/main/Aadil-Intro.gif)   
+
 ### Hi I'm Aadil Ghani! 👋
 
 - 🔭 I’m currently working on Full Stack Applications
