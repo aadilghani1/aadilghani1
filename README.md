@@ -2,10 +2,10 @@
 
 ### Hi I'm Aadil Ghani! 👋
 
-- 🔭 I’m currently working on Full Stack Applications
-- 🌱 I’m currently on the road to mastering Prototyping and building MERN Stack Applications
-- 👯 I’m looking to collaborate on Fiverr and Upwork
-- 💬 Ask me about JavaScript, ReactJS and NextJS
+- 🔭 I’m currently working on making web apps look awesome.
+- 🌱 I currently work with health tech and blockchain applications.
+- 👯 Reach out to me through my socials for collaborating and making things awesome.
+- 💬 Ask me about JavaScript, ReactJS and NextJS.
 - 📫 How to reach me:[ LinkedIn: Aadil Ghani](https://www.linkedin.com/in/aadil-g-a25545b1) || [Website: aadilghani.netlify.app](https://aadilghani.netlify.app/)
 
 
