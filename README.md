@@ -6,7 +6,7 @@
 - 🌱 I currently work with health tech and blockchain applications.
 - 👯 Reach out to me through my socials for collaborating and making things awesome.
 - 💬 Ask me about JavaScript, ReactJS and NextJS.
-- 📫 How to reach me:[ LinkedIn: Aadil Ghani](https://www.linkedin.com/in/aadil-g-a25545b1) || [Website: aadilghani.netlify.app](https://aadilghani.netlify.app/)
+- 📫 How to reach me:[ LinkedIn: Aadil Ghani](https://www.linkedin.com/in/aadil-g-a25545b1) || [Website: aadilghani.tech](https://aadilghani.tech/)
 
 
 
