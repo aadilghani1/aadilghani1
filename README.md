@@ -3,9 +3,9 @@
 ### Hi I'm Aadil Ghani! 👋
 
 - 🔭 I’m currently working on making web apps look awesome.
-- 🌱 I currently work with med-tech and blockchain applications.
+- 🌱 Revolutionising Med-Tech and Blockchain applications.
 - 👯 Reach out to me through my socials for collaborating and making things awesome.
-- 💬 Ask me about JavaScript, ReactJS and NextJS.
+- 💬 Ask me about JavaScript, ReactJS and NextJS, Pssst... I teach how to make Web-Applications as well.
 - 📫 How to reach me:[ LinkedIn: Aadil Ghani](https://www.linkedin.com/in/aadil-g-a25545b1) || [Website: aadilghani.tech](https://aadilghani.tech/)
 
 
