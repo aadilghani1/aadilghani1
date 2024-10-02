@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on making web apps look awesome.
 - 🌱 Revolutionising Med-Tech and Blockchain applications.
 - 👯 Reach out to me through my socials for collaborating and making things awesome.
-- 💬 Ask me about JavaScript, ReactJS and NextJS, Pssst... I teach how to make Web-Applications as well.
-- 📫 How to reach me:[ LinkedIn: Aadil Ghani](https://www.linkedin.com/in/aadil-g-a25545b1) || [Website: aadilghani.tech](https://aadilghani.tech/)
+- 💬 Ask me about JavaScript, ReactJS and NextJS, Pssst... I teach how to make applications from scratch as well.
+- 📫 How to reach me:[ LinkedIn: Aadil Ghani](https://www.linkedin.com/in/aadilghani) || [Website: aadilghani.tech](https://aadilghani.tech/)
 
 
 
